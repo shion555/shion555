@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Shion! 👋
+
+I'm currently working hard on learning Web Applications! 🇯🇵
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shion555&show_icons=true&theme=gruvbox)`
 
