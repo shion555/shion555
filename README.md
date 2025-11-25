@@ -4,6 +4,8 @@ I'm currently working hard on learning Web Applications! 🇯🇵
 
 ![My GitHub stats](https://github-readme-stats-amber-eight-25.vercel.app/api?username=shion555&show_icons=true&theme=gruvbox)
 
+![Top Langs](https://github-readme-stats-amber-eight-25.vercel.app/api/top-langs?username=shion555&layout=compact&theme=gruvbox)
+
 <!--
 **shion555/shion555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
